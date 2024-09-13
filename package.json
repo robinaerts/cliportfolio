@@ -1,4 +1,7 @@
 {
+  "name": "robinaerts",
+  "version": "1.0.2",
+  "main": "index.js",
   "type": "module",
   "dependencies": {
     "boxen": "^8.0.1",
@@ -8,12 +11,7 @@
     "open": "^10.1.0",
     "user": "^0.0.0"
   },
-  "name": "robinaerts",
-  "version": "1.0.2",
-  "main": "index.js",
-  "bin": {
-    "robinaerts": "./index.js"
-  },
+  "bin": "./bin.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/robinaerts/cliportfolio.git"
