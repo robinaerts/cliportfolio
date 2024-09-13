@@ -9,7 +9,7 @@
     "user": "^0.0.0"
   },
   "name": "cli_portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
