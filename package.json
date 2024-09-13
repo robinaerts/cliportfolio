@@ -8,9 +8,16 @@
     "open": "^10.1.0",
     "user": "^0.0.0"
   },
-  "name": "cli_portfolio",
+  "name": "robinaerts",
   "version": "1.0.1",
   "main": "index.js",
+  "bin": {
+    "robinaerts": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinaerts/cliportfolio.git"
+  },
   "scripts": {
     "dev": "nodemon index.js"
   },
