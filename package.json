@@ -9,7 +9,7 @@
     "user": "^0.0.0"
   },
   "name": "robinaerts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
     "robinaerts": "./index.js"
